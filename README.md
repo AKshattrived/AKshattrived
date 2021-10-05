@@ -36,10 +36,10 @@
 </p>  
 
 <!-- Include after pushing some projects -->
-<!-- <a href="https://github.com/AKshattrived">
+ <a href="https://github.com/AKshattrived">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKshattrived&theme=dark&hide_langs_below=1" />
 </a>
-<br> -->
+<br>
  
 <a href="https://github.com/AKshattrived">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKshattrived&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
