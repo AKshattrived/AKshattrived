@@ -1,5 +1,5 @@
-### Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> !
-# This is Akshat Trivedi
+
+<h1 align="center">✨Welcome to Akshat's GitHub</h1>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,39 +10,37 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h4> Making my way through: </h4>
-<p>
-<a href="https://github.com/AKshattrived">
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Language" width="48" height="48"/>
-</a>
-<a href="https://github.com/AKshattrived">
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/html_48.svg" alt="HTML" width="48" height="48"/>
- </a>
-<a href="https://github.com/AKshattrived">
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/css_48.svg" alt="CSS" width="48" height="48"/>
- </a>
-<a href="https://github.com/AKshattrived">
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/javascript_48.svg" alt="JavaScript" width="48" height="48"/>
- </a>
-<a href="https://github.com/AKshattrived">
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/git_48.svg" alt="Git" width="48" height="48"/>
- </a>
-<a href="https://github.com/AKshattrived">
-<img src="https://developer.android.com/images/cluster-illustrations/kotlin-hero.svg" alt="Kotlin/Android" width="48" height="48"/>
-</a>
-<a href="https://github.com/AKshattrived">
-<img src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" alt="Java" width="48" height="84"/>
-</a>
-</p>  
+### ⚙️ &nbsp;GitHub Analytics
+---
+<br />
 
-<!-- Include after pushing some projects -->
- <a href="https://github.com/AKshattrived">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKshattrived&theme=dark&hide_langs_below=1" />
+<p align="center">
+<a href="https://github.com/AKshattrived" target="_blank">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AKshattrived&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ddd7&hide_border=false&border_color=FFFFFF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKshattrived&layout=compact&hide=handlebars&theme=algolia&bg_color=0D1117&hide_border=false&&title_color=00ddd7&border_color=FFFFFF" alt="Akshat Trivedi's most used languages"/>
+</p>
+<br />
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AKshattrived&theme=dark&background=0D1117&hide_border=&border_color=FFFFFF&ring=00DDD7&fire=00DDD7&stroke=F1F1F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00DDD7&dates=CACACA" alt="AKshattrived's streaks" />
+</p>
 </a>
-<br>
- 
-<a href="https://github.com/AKshattrived">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKshattrived&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
-</a>
+<!-- include it later -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=AKshattrived&theme=react-dark&hide_border=false" /> -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AKshattrived&theme=dark)
+<br /><br />
+
+### 🤝🏻 &nbsp;Now you know where to find me
+---
+<br />
+<a href="https://www.linkedin.com/in/akshat-trivedi-9092981ba/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="https://twitter.com/akshattrivedi_">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+<a href="mailto:akshattrivedi7901@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://www.instagram.com/ak.shattrivedi/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
