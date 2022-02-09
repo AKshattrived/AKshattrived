@@ -1,5 +1,5 @@
 
-<h1 align="center">✨Welcome to Akshat's GitHub</h1>
+<h1 align="center">Welcome to Akshat's GitHub 🤝🏻</h1>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,6 +9,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+### 💬 I’m currently working on
+---
+- [Accountant Mini](https://github.com/AKshattrived/Android-Study-Jams) : An Android Application to track our finance in more efficient way
+- [Portfolio Website](https://akshattrived.github.io/Akshat-Trivedi-Portfolio/) : Keeping it simple, clean and cool.
+- [Project Planner](https://akshattrived.github.io/Project-Planner/) : A website to increase productivity and later planning to conver it into mobile app too.
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 ---
