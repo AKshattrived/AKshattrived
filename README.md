@@ -1,21 +1,37 @@
 
 <h1 align="center">Welcome to Akshat's GitHub 🤝🏻</h1>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<p align="center">
+  Computer Science student and Developer with a genuine passion for design and technology that amplifies human potential and shapes subtle qualities of the human spirit. 
+</p>
+<p align="center">
+  I enjoy working with the people who try to overcome real world problems with smart , witty and simple solutions. Being able to create impact using science and technology is what motivates me to wake up every morning.
+</p>
 
-### 💬 I’m currently working on
+### 💭 I’m currently working on
 ---
 - [Accountant Mini](https://github.com/AKshattrived/Android-Study-Jams) : An Android Application to track our finance in more efficient way
 - [Portfolio Website](https://akshattrived.github.io/Akshat-Trivedi-Portfolio/) : Keeping it simple, clean and cool.
 - [Project Planner](https://akshattrived.github.io/Project-Planner/) : A website to increase productivity and later planning to conver it into mobile app too.
 
+</br>
+
+
+### 🛠 &nbsp;Tech & Tools I work with
+---
+
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;\
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+
+</br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 ---
@@ -40,14 +56,14 @@
 ---
 <br />
 <a href="https://www.linkedin.com/in/akshat-trivedi-9092981ba/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+  <img align="left" width="44px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/akshattrivedi_">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+  <img align="left" width="44px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 <a href="mailto:akshattrivedi7901@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  <img align="left" width="44px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <a href="https://www.instagram.com/ak.shattrivedi/">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+  <img align="left" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
