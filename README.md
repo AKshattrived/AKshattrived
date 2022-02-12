@@ -7,6 +7,9 @@
 <p align="center">
   I enjoy working with the people who try to overcome real world problems with smart , witty and simple solutions. Being able to create impact using science and technology is what motivates me to wake up every morning.
 </p>
+<p align="center">
+  I like to manage and participate in different fun events that can help students to elevate their skills. I've been part of different management teams and have organised several events of local to national level. If you're interested in such activities and tech, do not hesitate to reach out to me. 
+</p>
 
 ### 💭 I’m currently working on
 ---
