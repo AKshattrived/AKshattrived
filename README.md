@@ -10,7 +10,7 @@
 <p align="justify">
   I like to manage and participate in different fun events that can help students to elevate their skills. I've been part of different management teams and have organized several events of local to national level. If you're interested in such activities and tech, do not hesitate to reach out to me. 
 </p>
-
+<!--
 ### 💭 I’m currently working on
 ---
 - [Accountant Mini](https://github.com/AKshattrived/Android-Study-Jams) : An Android Application to track our finance in more efficient way
@@ -18,7 +18,7 @@
 - [Project Planner](https://akshattrived.github.io/Project-Planner/) : A website to increase productivity and later planning to conver it into mobile app too.
 
 </br>
-
+-->
 
 ### 🛠 &nbsp;Tech & Tools I work with
 ---
