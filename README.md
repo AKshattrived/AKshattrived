@@ -1,14 +1,13 @@
 
 <h1 align="center">Welcome to Akshat's GitHub 🤝🏻</h1>
 
-<p align="justify">
-  Computer Science student and Developer with a genuine passion for design and technology that amplifies human potential and shapes subtle qualities of the human spirit. 
+<p align="justify">Computer Science student with a genuine passion for problem solving and building solutions that amplifies human potential and shapes subtle qualities of the human spirit.  
 </p>
 <p align="justify">
-  I enjoy working with the people who try to overcome real world problems with smart , witty and simple solutions. Being able to create impact using science and technology is what motivates me to wake up every morning.
+  I enjoy working with the people who try to overcome real world problems with smart, witty and simple solutions. Being able to create impact using science and technology is what motivates me to wake up every morning.
 </p>
 <p align="justify">
-  I like to manage and participate in different fun events that can help students to elevate their skills. I've been part of different management teams and have organized several events of local to national level. If you're interested in such activities and tech, do not hesitate to reach out to me. 
+I like to work on projects that have a tangible, positive effect on society or the organization I'm a part of. I value working with diverse, talented individuals in a supportive and collaborative atmosphere where ideas are shared and valued.
 </p>
 <!--
 ### 💭 I’m currently working on
@@ -16,13 +15,13 @@
 - [Accountant Mini](https://github.com/AKshattrived/Android-Study-Jams) : An Android Application to track our finance in more efficient way
 - [Portfolio Website](https://akshattrived.github.io/Akshat-Trivedi-Portfolio/) : Keeping it simple, clean and cool.
 - [Project Planner](https://akshattrived.github.io/Project-Planner/) : A website to increase productivity and later planning to conver it into mobile app too.
-
+--
 </br>
 -->
-
+<!--
 ### 🛠 &nbsp;Tech & Tools I work with
 ---
-
+<!--
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
@@ -40,6 +39,7 @@
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)&nbsp;
 
 </br>
+-->
 
 ### ⚙️ &nbsp;GitHub Analytics
 ---
